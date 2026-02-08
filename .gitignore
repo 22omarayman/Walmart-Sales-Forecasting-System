@@ -18,10 +18,10 @@ __pycache__/
 Thumbs.db
 
 # data (don’t push datasets)
-data/
-*.csv
-*.xlsx
-*.parquet
+# data/
+# *.csv
+# *.xlsx
+# *.parquet
 
 # models (choose!)
 # If you want to keep model files on GitHub, comment next line
