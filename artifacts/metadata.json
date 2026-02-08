@@ -1,0 +1,29 @@
+{
+  "features": [
+    "Store",
+    "Dept",
+    "IsHoliday",
+    "Temperature",
+    "Fuel_Price",
+    "MarkDown1",
+    "MarkDown2",
+    "MarkDown3",
+    "MarkDown4",
+    "MarkDown5",
+    "CPI",
+    "Unemployment",
+    "Type",
+    "Size",
+    "week",
+    "month",
+    "year",
+    "is_weekend",
+    "lag_1",
+    "lag_2",
+    "lag_4",
+    "lag_8",
+    "roll_mean_4",
+    "roll_mean_8"
+  ],
+  "mae": 1518.5795980284295
+}

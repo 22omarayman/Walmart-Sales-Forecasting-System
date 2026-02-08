@@ -1,0 +1,28 @@
+# venv
+.venv/
+
+# python
+__pycache__/
+*.py[cod]
+
+# cache
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# editor
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# data (don’t push datasets)
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# models (choose!)
+# If you want to keep model files on GitHub, comment next line
+# models/
